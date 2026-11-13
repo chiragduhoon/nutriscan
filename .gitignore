@@ -1,0 +1,8 @@
+venv/
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+# original training checkpoint (55 MB, includes optimizer state); the app uses models/nutriscan-yolo11s.pt
+/best.pt
+runs/

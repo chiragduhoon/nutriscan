@@ -1,0 +1,4 @@
+# Runs on CPU (Windows / macOS / Linux). Inference ~125 ms per image on a laptop CPU.
+ultralytics>=8.3,<9
+streamlit>=1.40
+pillow>=10
